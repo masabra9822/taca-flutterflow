@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "93516784241",
+    "project_id": "taca-e41da",
+    "storage_bucket": "taca-e41da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93516784241:android:ee002b2c34cf9134e6f1d0",
+        "android_client_info": {
+          "package_name": "com.dtime.taca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnh2sgua5j5cLK2MiUsYWMqkoI4NKBPTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93516784241:android:bf7aebfc5cf7a136e6f1d0",
+        "android_client_info": {
+          "package_name": "com.masabra.taca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnh2sgua5j5cLK2MiUsYWMqkoI4NKBPTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
